@@ -1,0 +1,15 @@
+C:\Dev\Personal\PayMint\PayMint\bin\Debug\PayMint.exe.config
+C:\Dev\Personal\PayMint\PayMint\bin\Debug\PayMint.exe
+C:\Dev\Personal\PayMint\PayMint\bin\Debug\PayMint.pdb
+C:\Dev\Personal\PayMint\PayMint\obj\Debug\PayMint.csprojAssemblyReference.cache
+C:\Dev\Personal\PayMint\PayMint\obj\Debug\MainWindow.g.cs
+C:\Dev\Personal\PayMint\PayMint\obj\Debug\App.g.cs
+C:\Dev\Personal\PayMint\PayMint\obj\Debug\PayMint_MarkupCompile.cache
+C:\Dev\Personal\PayMint\PayMint\obj\Debug\PayMint_MarkupCompile.lref
+C:\Dev\Personal\PayMint\PayMint\obj\Debug\MainWindow.baml
+C:\Dev\Personal\PayMint\PayMint\obj\Debug\PayMint.g.resources
+C:\Dev\Personal\PayMint\PayMint\obj\Debug\PayMint.Properties.Resources.resources
+C:\Dev\Personal\PayMint\PayMint\obj\Debug\PayMint.csproj.GenerateResource.cache
+C:\Dev\Personal\PayMint\PayMint\obj\Debug\PayMint.csproj.CoreCompileInputs.cache
+C:\Dev\Personal\PayMint\PayMint\obj\Debug\PayMint.exe
+C:\Dev\Personal\PayMint\PayMint\obj\Debug\PayMint.pdb
